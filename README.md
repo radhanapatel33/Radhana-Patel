@@ -1,3 +1,4 @@
+![logo](https://github.com/radhanapatel33/Radhana-Patel/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Radhana Patel</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
